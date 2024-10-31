@@ -1,0 +1,67 @@
+<!-- menu.xml -->
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+    <meals>
+        <meal>
+            <name>Beetroot and feta salad</name>
+            <price>$200</price>
+            <description>Suitable for vegetarians, made with fresh beetroot</description>
+            <image>img/meal-1.jpg</image>
+        </meal>
+        <meal>
+            <name>Sourdough Rye Sandwich</name>
+            <price>$18</price>
+            <description>Cheese and salad sandwich made with organic sourdough rye bread</description>
+            <image>img/meal-2.jpg</image>
+        </meal>
+        <meal>
+            <name>Spinach Pie and Salad</name>
+            <price>$20</price>
+            <description>Tasty pie with salad</description>
+            <image>img/meal-3.jpg</image>
+        </meal>
+        <meal>
+            <name>Feta pancakes with salad</name>
+            <price>$19.5</price>
+            <description>Tasty pancake filled with feta and salad</description>
+            <image>img/meal-4.jpg</image>
+        </meal>
+    </meals>
+    <beverages>
+        <beverage>
+            <name>Small</name>
+            <price>$3.5</price>
+            <description>For coffee, please inform the staff of the coffee type.</description>
+            <image>img/small.png</image>
+        </beverage>
+        <beverage>
+            <name>Regular</name>
+            <price>$4</price>
+            <description>For coffee, please inform the staff of the coffee type.</description>
+            <image>img/regular.png</image>
+        </beverage>
+        <beverage>
+            <name>Large</name>
+            <price>$4.5</price>
+            <description>For coffee, please inform the staff of the coffee type.</description>
+            <image>img/big.png</image>
+        </beverage>
+    </beverages>
+    <otherBeverages>
+        <otherBeverage>
+            <name>Soda</name>
+            <price>$3</price>
+            <image>img/soda.png</image>
+        </otherBeverage>
+        <otherBeverage>
+            <name>Fresh Juice</name>
+            <price>$6</price>
+            <image>img/juice.png</image>
+        </otherBeverage>
+        <otherBeverage>
+            <name>Bottled water</name>
+            <price>$2</price>
+            <image>img/water.png</image>
+        </otherBeverage>
+    </otherBeverages>
+</menu>

@@ -1,0 +1,5 @@
+<!ELEMENT contactInfo (location+)>
+<!ELEMENT location (address, phone, hours)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT hours (#PCDATA)>
